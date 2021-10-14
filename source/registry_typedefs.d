@@ -1,4 +1,4 @@
-module source.registry_typedefs;
+module registry_typedefs;
 
 alias Identifier = ulong;
 alias LocalIdentifier = ulong;

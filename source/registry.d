@@ -1,4 +1,4 @@
-module source.registry;
+module registry;
 
 struct GUID
 {
